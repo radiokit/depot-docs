@@ -1,8 +1,9 @@
 Welcome to RadioKit Depot's documentation!
 ===========================================
 
-RadioKit Depot is a cloud computing platform for routing audio between
-multiple devices while keeping quality required for broadcasting applications.
+RadioKit Depot is a flexible cloud space designed for broadcasting and podcasting.
+Its main goal is to provide integration between radio systems, but its flexibility
+allows to use it for various purposes. 
 
 
 Contents
@@ -10,8 +11,5 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-
    getting-started
-   installation
    support
-   changelog
