@@ -1,7 +1,7 @@
 Getting Started
 ===============
 
-RadioKit Electron takes different approach than most Audio Over IP systems
+RadioKit Depot takes different approach than most Audio Over IP systems
 present on the market. It was designed with focus on easing both journalists'
 and sound engineers' lives, so there's a clear distinction between roles of
 *user* (who is usually a journalist but it may also mean sound device attached

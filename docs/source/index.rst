@@ -1,7 +1,7 @@
-Welcome to RadioKit Electron's documentation!
+Welcome to RadioKit Depot's documentation!
 ===========================================
 
-RadioKit Electron is a cloud computing platform for routing audio between
+RadioKit Depot is a cloud computing platform for routing audio between
 multiple devices while keeping quality required for broadcasting applications.
 
 

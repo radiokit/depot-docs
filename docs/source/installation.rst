@@ -1,14 +1,14 @@
 Installation
 ============
 
-Download the Electron client
+Download the Depot client
 -------------------------------
 
-For **Android** phones download the client `here <https://play.google.com/store/apps/details?id=org.radiokit.electron>`_.
+For **Android** phones download the client `here <https://play.google.com/store/apps/details?id=org.radiokit.depot>`_.
 
-For **Windows 32-bit** downlaod the client `here <https://packages.radiokit.org/packages/windows/radiokit-electron/stable/latest-32bit>`_.
+For **Windows 32-bit** downlaod the client `here <https://packages.radiokit.org/packages/windows/radiokit-depot/stable/latest-32bit>`_.
 
-For **Windows 64-bit** download the client `here <https://packages.radiokit.org/packages/windows/radiokit-electron/stable/latest-64bit>`_.
+For **Windows 64-bit** download the client `here <https://packages.radiokit.org/packages/windows/radiokit-depot/stable/latest-64bit>`_.
 
 
 Connect your device to console
@@ -16,18 +16,18 @@ Connect your device to console
 Patchbay
 -------------
 
-Patchbay is the place where you can connect and manage all your devices that have Electron client installed on them. To access it follow the next steps: 
+Patchbay is the place where you can connect and manage all your devices that have Depot client installed on them. To access it follow the next steps: 
 
 * 1. Open the RadioKit console. 
-* 2. Click on the **Electron** box. 
+* 2. Click on the **Depot** box. 
 * 3. Then click on the **Patchbay** tab. 
 
 Here you can se the list of all your accounts. If you have mulitple accounts, select the one you 
 want to connect your device with. If you have only one account, the system will redirect you to the Patchbay of your account on its own. 
 
-If you are entering the Patchbay for the first time you will only see white empty board. All your devices with Electron client will be shown here after you add them to the Patchbay. Note that in order for 
-devices with Electron client to be able to communicate with each other you have to add each one of them into the Patchbay. A single device with Electron client (example: Androind phone) can not communicate with the system if the 
-system (example: your streaming computer) does not have the Electron installed on it as well. 
+If you are entering the Patchbay for the first time you will only see white empty board. All your devices with Depot client will be shown here after you add them to the Patchbay. Note that in order for 
+devices with Depot client to be able to communicate with each other you have to add each one of them into the Patchbay. A single device with Depot client (example: Androind phone) can not communicate with the system if the 
+system (example: your streaming computer) does not have the Depot installed on it as well. 
 
 Add a new device in Patchbay
 ---------------------------------
@@ -37,17 +37,17 @@ in the upper left corner. The buttons are: Add device, Edit device and Delete (g
 
 * 1. Click on the **Add device** button. A pop-up screen will come up asking you to name your new device. 
 * 2. Insert the name of your new device (example: Journalist one) and click the Add device button. 
-Another pop-up screen will come up containg the set up code for your new device as well as the download links to Electron clients. 
+Another pop-up screen will come up containg the set up code for your new device as well as the download links to Depot clients. 
 
 **Bear in mind that each code is valid for only 15 minutes after which you will have to start the set up again if you need a new working code**
 
 * 3. Copy or write down your code and click Close button. 
-Your device will now appear on the Patchbay board. It will look like a blue rectangle and it will have the name you gave it, but **it won't be active until you put the code in the Electron client**. 
+Your device will now appear on the Patchbay board. It will look like a blue rectangle and it will have the name you gave it, but **it won't be active until you put the code in the Depot client**. 
 
-Insert the Patchbay code in the Electron client
+Insert the Patchbay code in the Depot client
 ----------------------------------------------------
 
-Open your Electron client on your Android phone or on your Windows system. The welcome screen will ask you to insert the code you have just recived in the previous step. 
+Open your Depot client on your Android phone or on your Windows system. The welcome screen will ask you to insert the code you have just recived in the previous step. 
 Insert the code and click the **Sign in** button. Your client is now active in the Patchbay. Your client will now show you the screen with 2 options, to capture
 or playback the sound. However it will still not be able to transmit audio until you complete the next step. 
 
