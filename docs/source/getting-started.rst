@@ -1,12 +1,23 @@
 Getting Started
 ===============
 
-RadioKit Depot repositories were designed for integration and centralization of
+RadioKit Depot is like a tailored version of Dropbox for Radio-oriented purposes.
+It consists of multiple "file repositories", which you can compare to separate
+hard drives with different functions. On these repositories you can keep your
+audio files in a folder-like way, but with advantage of keeping the same file in
+many folders without need of multiplying the file itself. It helps you as well
+to describe your files with various data, that you may find helpful in your work.
+
+This repositories were designed as well for integration and centralization of
 all of audio files needed for broadcasting and podcasting.
 
 RadioKit approach lean to keep functionality of users as minimum,
-and keep most of the settings separately, so you have to different "applications":
-"Administration" and in case of Depot - "Library"
+and keep most of the settings separately, so you have two different "applications":
+"Administration" - for those who supervise journalists, configure general structure
+of tags, metadata etc. and "Library" - for those who operate with the content on
+daily basis.
+
+
 
 Repositories Administration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
