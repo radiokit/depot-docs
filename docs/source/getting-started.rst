@@ -9,7 +9,7 @@ and keep most of the settings separately, so you have to different "applications
 "Administration" and in case of Depot - "Library"
 
 Repositories Administration
-^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In Administration/File repositories you can manage your repositories functionalities,
 check basic stats like "files count" or "total size", define its internal structure,
@@ -20,7 +20,7 @@ tabs: metadata, tags, processors, imports, exports.
 
 
 Metadata
-********************
+********
 
 Metadata is the place to keep whatever data about the file you need, or other
 systems might need. So everything from a duration of file, through Idv3 tags, to
@@ -33,7 +33,7 @@ however once key and value type are set, they can't be changed.
 be created and never deleted - its field with the key "duration" and the same value type.)
 
 Tags
-********************
+****
 
 Tags' purpose is to label your files according to your needs, so you can navigate
 through them and keep them in order you want.
@@ -52,7 +52,7 @@ Tags are also base for automatic scheduling of broadcasting channels.
 
 
 Processors
-********************
+**********
 
 Section processors is to define what kind of processes you want to apply to all
 of your files in a repository - count its duration, generate waveforms, convert
@@ -61,14 +61,14 @@ processor to the repository - the systems will be always searching for files, wh
 are lacking results of planned processes and in each case perform them.
 
 Imports
-********************
+*******
 
 In this section you can define imports from your other systems, that will be
 perform in 12h cycles - every 12 hours systems is going to check the differences
 between your defined source, and your repository.
 
 Export
-********************
+******
 
 In this section you can define exports to other systems (i.e. mixcloud),
 where you want to publish your files.
@@ -76,10 +76,10 @@ Exports always takes files only from "Ready" tab of a repository.
 
 
 Library
-^^^^^^^^^^^
+^^^^^^^
 
 Upload
-********************
+*******
 
 
 After configuring your repository, you can go to the library and see the repository
@@ -101,7 +101,7 @@ Google Chrome seems to be most effective.)
 
 
 Tagging & Meta-dating;)
-********************
+***********************
 
 On the left side of your repository you see tree of tags, that you defined in
 administration. Above files you see row with metadata you defined.
@@ -114,7 +114,7 @@ you have uploaded - most of the fields might become filled be itself. You can
 give it a minute or two and refresh (if there is no upload ongoing), to see what its done.
 
 Incoming, Ready, Archive, Trash
-********************
+*******************************
 
 The Tabs you see on the right corners tells you in which section you're at the moment,
 You can move the files between the section, by checking the files and clicking
@@ -122,7 +122,7 @@ according button in the top-bar.
 
 
 Workflow
-********************
+********
 
 The stage Incoming is the place, where you work with uploads (assinging tags &
 metadata).
